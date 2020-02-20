@@ -1,1 +1,1 @@
-# exercicio8
+Exercicio 8 - Aula de Dispositivos móveis
